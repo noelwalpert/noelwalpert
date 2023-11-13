@@ -1,16 +1,13 @@
-### Hi there 👋
+Greetings, intrepid coder and curious wanderer of the digital realms! 🌐✨ You've stumbled upon a magical kingdom where bugs are mythical creatures that do not exist, and creativity flows like a never-ending stream of ones and zeros. 🧙‍♂️🔮
 
-<!--
-**noelwalpert/noelwalpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Here, in the realm of noelwalpert's creations, you're not just a visitor; you're an honorary pixel in the grand mosaic of coding adventures. Whether you're a seasoned code sorcerer or a newbie bard of the binary (like me), you're in for a whimsical ride through the enchanted forest of codebases.
 
-Here are some ideas to get you started:
+🌟 Dive into my README below, where the secrets of this repository unfold like a map to the treasure trove of possibilities. May your commits be swift, your merges harmonious, and your code forever bug-free!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now, fellow adventurer, let the coding saga begin! 🚀🔥✨
+
+- 🌱 I’m currently learning Python and MySQL
+- 💬 Ask me about...well, anything :)
+- 📫 How to reach me: noel@walpert.ch
+- ⚡ Fun fact: I am studying economics
+- 😄 Hobbies: 🥊 / 🏋️ / 🔭 / ⚽️ / 🦌
