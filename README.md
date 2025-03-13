@@ -1,13 +1,15 @@
-Greetings, intrepid coder and curious wanderer of the digital realms! 🌐✨ You've stumbled upon a magical kingdom where bugs are mythical creatures that do not exist, and creativity flows like a never-ending stream of ones and zeros. 🧙‍♂️🔮
+What I’m Working On (2024 Goals)
+VBA for Excel – Automating financial workflows and report generation
+SQL – Extracting and analyzing financial data for insights
+Power BI – Creating dynamic dashboards for financial analysis and decision-making
+Python – Automating financial data analysis, forecasting, and visualization
+Career Aspirations
+My goal is to build a strong foundation in finance, data analytics, and automation to work in areas such as investment banking, financial consulting, corporate finance, or financial strategy. I am particularly interested in leveraging technology and quantitative analysis to improve decision-making processes, optimize financial workflows, and provide data-driven insights in high-impact environments.
 
-🎨 Here, in the realm of my creations, you're not just a visitor; you're an honorary pixel in the grand mosaic of coding adventures. Whether you're a seasoned code sorcerer or a newbie bard of the binary (like me), you're in for a whimsical ride through the enchanted forest of codebases.
-
-🌟 Dive into my README below, where the secrets of this repository unfold like a map to the treasure trove of possibilities. May your commits be swift, your merges harmonious, and your code forever bug-free!
-
-Now, fellow adventurer, let the coding saga begin! 🚀🔥✨
-
-- 🌱 I’m currently learning Python and MySQL
-- 💬 Ask me about...well, anything :)
-- 📫 How to reach me: noel@walpert.ch
-- ⚡ Fun fact: I am studying economics
-- 😄 Hobbies: 🥊 / 🏋️ / 🔭 / ⚽️ / 🦌
+Tech Stack & Skills
+Programming & Automation: Python (Pandas, NumPy), VBA for Excel
+Data Analytics & Visualization: Power BI, Matplotlib, Seaborn
+Databases & SQL: MySQL, PostgreSQL, SQL for financial data
+Finance & Modeling: Financial Statements, Valuation, Deal Analysis
+Connect & Collaborate
+I’m open to collaborating on finance-related data projects, automation, and investment analysis. Feel free to connect with me on LinkedIn or reach out to discuss projects.
