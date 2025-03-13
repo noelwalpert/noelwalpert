@@ -1,3 +1,5 @@
+Hello! I'm an aspiring finance professional with a strong interest in investment banking, consulting, and financial analytics. Currently, I am honing my skills in data analytics, automation, and financial modeling to build efficient solutions for financial analysis, reporting, and business intelligence.
+
 What I’m Working On (2024 Goals)
 VBA for Excel – Automating financial workflows and report generation
 SQL – Extracting and analyzing financial data for insights
